@@ -3,7 +3,7 @@ import openai
 import pandas as pd
 
 # OpenAI API Key
-openai.api_key = "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"
+openai.api_key = "your_openai_key"
 
 # Load the dataset
 @st.cache_data
